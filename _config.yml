@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            The Sacred Pipe (calumet)
 tagline:          ''
 description:      ''
-url:              https://kikibase.github.io
+url:              https://deborahnwachukwu.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Deborah Nwachukwu
+email: nwachukd@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
